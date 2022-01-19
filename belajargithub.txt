@@ -4,3 +4,4 @@ belajar github
 - rajin
 - bekerja keras
 - berusaha 
+- giat belajar

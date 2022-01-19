@@ -2,3 +2,5 @@ belajar github
 - pantang menyerah
 - jangan malas-malasan
 - rajin
+- bekerja keras
+- berusaha 

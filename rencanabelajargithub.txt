@@ -2,4 +2,4 @@ rencana belajat github
 - belajar 2 video sehari
 - mengikuti alur video
 - kerja mengikuti video
-- belajar mengenai fork
+- belajar mengenai branch
